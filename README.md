@@ -410,9 +410,8 @@ body {
 
 ## OUTPUT
 
-<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/2caf605a-6abd-48fc-a9eb-531f5856182d" />
-
-<img width="1911" height="971" alt="image" src="https://github.com/user-attachments/assets/f934df2a-41e7-4ecb-bbf3-03b1abbeba51" />
+<img width="1908" height="975" alt="image" src="https://github.com/user-attachments/assets/e419b7c6-9ebb-49bf-9e10-4c510930ac8e" />
+<img width="1900" height="914" alt="image" src="https://github.com/user-attachments/assets/bcc508f8-1f22-43e3-9a68-179bcb43a4ca" />
 
 
 ## RESULT
