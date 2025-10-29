@@ -210,7 +210,7 @@ const App = () => {
       {/* Footer (Requested by User) */}
       <footer className="footer">
         <p>
-          Ex06 BMI Calculator - Name: Ashwin Kumar A | Register Number: 212223040021
+          Ex06 BMI Calculator - Name: Oviya N| Register Number: 212223040140
         </p>
       </footer>
     </div>
